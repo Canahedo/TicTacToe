@@ -2,6 +2,8 @@
 '''
 Tic tac toe clone
 Written by Canahedo
+Python3
+2021
 '''
 
 #Imports
